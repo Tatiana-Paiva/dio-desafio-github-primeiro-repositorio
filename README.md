@@ -13,6 +13,10 @@ Resumo das aulas.
 
 [Síntaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Git](https://git-scm.com/downloads)
+
+
+
 
 
 ## 
