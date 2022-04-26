@@ -1,0 +1,63 @@
+        Alguns Comandos do Git
+
+ 1 - Git config:
+git config -global user-name "Seu nome"
+git config -global user-email "Seu e-mail"
+
+Comando para configurar sua identidade de usuário, inserindo informações como nome e e-mail que serão empregados em cada commit.
+
+2 - Git init:
+git init
+
+Comando para criar um novo projeto de git. Cria um repositório novo e em branco.
+Se você já possui um repositório anterior ou deseja criar um repositório com um nome em especifíco, você pode passar o nome como parâmentro do comando:
+git init <o nome do seu repositório>
+
+3 - Git clone:
+git clone <URL do seu projeto>
+
+Cópia exata de um respositório já existente.
+
+4 - Git add
+git add seu arquivo 
+
+Esse comando irá adicionar o arquivo em específico ao repositório.
+
+git add * ou git add . 
+
+Esse comando irá adicionar todos os arquivos novos e/ou modificados ao repositório.
+
+5 - Git Commit
+git commit -m "seu comentário"
+
+A diferença entre o Git add e o Git commit é que o git add adiciona seus arquivos modificados à fila para serem submetidos a um commit posteriormente. Os arquivos não passaram por um commit.
+O Git commit executa o commit dos arquivos que foram adicionados e cria uma nova revisão com um log. Por outro lado, se você não adicionar nenhum arquivo, o git não fará o commit de nada.
+é possível combinar as duas ações em um único comando: git commit -a
+
+6 - Git Branch
+git branch
+
+Lista todas as ramificações.
+
+git branch <nome_do_branch>
+
+Cria um branch como o nome especificado.
+
+git branch -d <nome_do_branch>
+Deleta o branch com o nome especificado.
+
+7 - Git Checkout
+git checkout <nome_do_branch>
+
+Para trocar de uma ramificação para outra.
+
+8 - Git Push
+git push origin nome do branch
+
+Serve para enviar alterações do seu repositório local para um repositório remoto.
+
+9 - Git Pull
+git pull <URL>
+
+O Git pull baixa o conteúdo (não metadados) do que foi alterado no repositório remoto para o seu repositório local e imediatamente atualiza seu conteúdo para a útima versão.
+
