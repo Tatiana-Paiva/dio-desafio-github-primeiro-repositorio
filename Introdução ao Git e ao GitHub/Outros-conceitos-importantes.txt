@@ -1,0 +1,15 @@
+        Outros Conceitos Importantes
+
+Repositório: Os repositórios são os ambientes craidos para armazenar seus códigos.
+Você pode possuir um ou mais repositórios, públicos ou provados, locais ou remotos, e eles podem armazenar não somente os próprios códigos a serem modificados, mas também imagens, áudios, arquivos e outros elementos relacionados ao seu projeto.
+É através do seus repositórios públicos que outros programadores poderão ter acesso aos seus códigos no GitHub, podendo, inclusive, cloná-los para adicionar melhorias.
+
+Branch: é o nome dado a uma versão (ramificação) do projeto.
+Isso é útil porque possibilita gerenciar múltiplas alterações acontecendo simultaneamente. 
+
+Merge: Para unir as modificações feitas em um branch ao código original utilizamos o comando merge.
+Com essa funcionalidade, todas as alterações feitas em cópia manipuláveis são inseridas, após aprovadas, no código-fonte oroginal sem complicações.
+
+Sha: A sigla Sha signifca Secure Hash Algorithm (algoritmo de Hash seguro), é um conjunto de funções has criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA)
+A incriptação gera conjunto de characters identificados de 40 digitos.
+É uma forma curta de representar um arquivo. 

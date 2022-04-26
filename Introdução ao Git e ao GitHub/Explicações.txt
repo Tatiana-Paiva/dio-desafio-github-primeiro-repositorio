@@ -1,0 +1,12 @@
+Principais Conceitos:
+
+O que é Git?
+O Git foi criado pelo engenheiro de software Linus Torvalds, conhecido por ter desenvolvido, também, o Linux. 
+O Git é um sistema de controle de versões distribuído.
+
+O que é GitHub?
+É uma espécie de rede social voltada para profissionais de TI cuja tecnologia que o sustenta é o Git. 
+É uma plataforma totalmente online onde você pode criar respositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros
+programadores e interagir vom códigos de terceiros.
+
+
