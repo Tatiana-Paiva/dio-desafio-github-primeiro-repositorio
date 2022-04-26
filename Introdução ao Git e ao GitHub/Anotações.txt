@@ -1,14 +1,8 @@
 Links para download
 
-https://www.markdownguide.org/basic-syntax/
+ Markdown Guide: https://www.markdownguide.org/basic-syntax/
 
-https://git-scm.com/
+ Git: https://git-scm.com/
 
-https://github.com/
+GitHub: https://github.com/
 
-Explicações:
-
-
-O que é Git?
-
-O que é GitHub?
